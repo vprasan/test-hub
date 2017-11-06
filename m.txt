@@ -1,1 +1,2 @@
 ADDED NEW FILE m.txt
+Modified m.txt from mastre branch by mistake and want to stash this file
